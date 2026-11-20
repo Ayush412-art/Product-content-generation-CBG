@@ -1,4 +1,4 @@
-# Listwise: product content from a photo
+#Product Content Generation SEO based
 
 Upload a product image and get a title, description, bullet points, tags, SEO text and alt text.
 Image understanding is done by **BLIP** (open-source, runs on your machine, no external API).
